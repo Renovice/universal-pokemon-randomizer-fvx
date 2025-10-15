@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="universal-pokemon-randomizer-fvx-master:jar">
+    <output-path>$PROJECT_DIR$/universal-pokemon-randomizer-fvx-master/launcher</output-path>
+    <root id="archive" name="universal-pokemon-randomizer-fvx-master.jar">
+      <element id="module-output" name="universal-pokemon-randomizer-fvx-master" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/universal-pokemon-randomizer-fvx-master/jna-5.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
